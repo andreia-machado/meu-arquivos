@@ -86,7 +86,7 @@
         <DCC_DcuOutput>C:\Users\andre\OneDrive\Área de Trabalho\Sistema2\DCU\</DCC_DcuOutput>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
-        <DCC_ExeOutput>C:\Users\andre\OneDrive\Área de Trabalho\Sistema2\</DCC_ExeOutput>
+        <DCC_ExeOutput>C:\Users\andre\OneDrive\Área de Trabalho\Sistema2\Exe\</DCC_ExeOutput>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">
         <DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
